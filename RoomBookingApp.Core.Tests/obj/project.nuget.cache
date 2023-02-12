@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lplIextm0Ouj+KNeZi/QFrLkBzZ8aPT40t/SCILyBHZydjCZFZy1QXQDapCHGoNjjwaZGPZd8+Ilm3TZlKMmjg==",
+  "dgSpecHash": "sp4wyXkBM0eBXsxWnHydrxENp0tpkolwOXzWpM6zuzh7LJK5ifgGnFXSEZ9DFt6WNplPMDGdE3llG8kubRoBDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Justin Vocke\\source\\repos\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Justin Vocke\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\diffengine\\10.0.0\\diffengine.10.0.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\emptyfiles\\2.8.0\\emptyfiles.2.8.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Justin Vocke\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -25,6 +27,7 @@
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
     "C:\\Users\\Justin Vocke\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
