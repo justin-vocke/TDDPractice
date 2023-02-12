@@ -1048,11 +1048,24 @@
       "RoomBookingApp.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RoomBookingApp.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RoomBookingApp.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/RoomBookingApp.Core.dll": {}
+        }
+      },
+      "RoomBookingApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RoomBookingApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RoomBookingApp.Domain.dll": {}
         }
       }
     }
@@ -4437,6 +4450,11 @@
       "type": "project",
       "path": "../RoomBookingApp.Core/RoomBookingApp.Core.csproj",
       "msbuildProject": "../RoomBookingApp.Core/RoomBookingApp.Core.csproj"
+    },
+    "RoomBookingApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RoomBookingApp.Domain/RoomBookingApp.Domain.csproj",
+      "msbuildProject": "../RoomBookingApp.Domain/RoomBookingApp.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

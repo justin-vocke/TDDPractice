@@ -756,8 +756,16 @@
         }
       },
       "RoomBookingApp.Core/1.0.0": {
+        "dependencies": {
+          "RoomBookingApp.Domain": "1.0.0"
+        },
         "runtime": {
           "RoomBookingApp.Core.dll": {}
+        }
+      },
+      "RoomBookingApp.Domain/1.0.0": {
+        "runtime": {
+          "RoomBookingApp.Domain.dll": {}
         }
       }
     }
@@ -1175,6 +1183,11 @@
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
     "RoomBookingApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoomBookingApp.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
